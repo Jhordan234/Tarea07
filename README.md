@@ -576,7 +576,7 @@ Precisión
 
 **Tu Nombre**
 - 📧 Email: jhordangonzalo234@gmail.com
-- 💻 GitHub: [@tu-usuario](https://github.com/Jhordan234)
+- 💻 GitHub: [@Jhordan](https://github.com/Jhordan234)
 
 ---
 
